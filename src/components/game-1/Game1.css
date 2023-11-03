@@ -1,0 +1,7 @@
+#game-1-container img#click-img {
+  border-radius: 50%;
+  object-fit: cover;
+  position: absolute;
+  z-index: 2;
+  transition: transform 0.2s;
+}

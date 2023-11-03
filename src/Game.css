@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.game-container {
+  border: 5px solid #880808;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}

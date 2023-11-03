@@ -1,0 +1,19 @@
+#present-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  row-gap: 5rem;
+  align-items: center;
+  padding: 1rem;
+}
+
+#present-container h1 {
+  color: #880808;
+  font-size: 50px;
+  text-align: center;
+}
+
+#present-container h4 {
+  font-size: 20px;
+  text-align: justify;
+}
